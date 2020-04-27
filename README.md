@@ -1,3 +1,4 @@
-# Проект окна в Ейске
+# Landing
+Small Landing for small windows bussiness in Russia. 
 
-### [Перейти](https://faynco.github.io/okna-eyesk/)
+### [Visit Landing](https://egorrya.github.io/okna-eyesk/)
